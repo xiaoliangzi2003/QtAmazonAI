@@ -1,0 +1,2450 @@
+The 3 round: 
+Start: (7,1)
+End: (7,8)
+Barrier: (9,6)
+
+The 3 round: 
+Start: (10,7)
+End: (6,7)
+Barrier: (6,4)
+
+The 5 round: 
+Start: (1,4)
+End: (4,4)
+Barrier: (2,6)
+
+The 5 round: 
+Start: (6,7)
+End: (9,4)
+Barrier: (9,2)
+
+The 7 round: 
+Start: (4,1)
+End: (3,2)
+Barrier: (3,7)
+
+The 7 round: 
+Start: (1,7)
+End: (3,9)
+Barrier: (9,3)
+
+The 9 round: 
+Start: (4,4)
+End: (5,4)
+Barrier: (5,10)
+
+The 9 round: 
+Start: (7,10)
+End: (8,9)
+Barrier: (8,6)
+
+The 11 round: 
+Start: (7,8)
+End: (7,9)
+Barrier: (4,9)
+
+The 11 round: 
+Start: (4,3)
+End: (3,3)
+Barrier: (6,3)
+
+The 13 round: 
+Start: (5,4)
+End: (5,6)
+Barrier: (8,3)
+
+The 13 round: 
+Start: (3,9)
+End: (4,8)
+Barrier: (3,8)
+
+The 15 round: 
+Start: (5,6)
+End: (3,6)
+Barrier: (6,6)
+
+The 15 round: 
+Start: (8,9)
+End: (8,8)
+Barrier: (6,8)
+
+The 17 round: 
+Start: (7,9)
+End: (8,9)
+Barrier: (3,4)
+
+The 17 round: 
+Start: (8,8)
+End: (9,8)
+Barrier: (7,8)
+
+The 19 round: 
+Start: (3,6)
+End: (4,5)
+Barrier: (4,7)
+
+The 19 round: 
+Start: (9,8)
+End: (9,9)
+Barrier: (9,8)
+
+The 21 round: 
+Start: (10,4)
+End: (10,1)
+Barrier: (10,10)
+
+The 21 round: 
+Start: (9,9)
+End: (8,8)
+Barrier: (9,9)
+
+The 23 round: 
+Start: (10,1)
+End: (7,1)
+Barrier: (7,7)
+
+The 23 round: 
+Start: (9,4)
+End: (7,6)
+Barrier: (7,3)
+
+The 25 round: 
+Start: (7,1)
+End: (10,1)
+Barrier: (10,8)
+
+The 25 round: 
+Start: (7,6)
+End: (10,3)
+Barrier: (6,7)
+
+The 27 round: 
+Start: (4,5)
+End: (5,4)
+Barrier: (4,4)
+
+The 27 round: 
+Start: (10,3)
+End: (10,2)
+Barrier: (10,5)
+
+The 29 round: 
+Start: (10,1)
+End: (1,1)
+Barrier: (9,1)
+
+The 29 round: 
+Start: (3,3)
+End: (4,2)
+Barrier: (1,5)
+
+The 31 round: 
+Start: (1,1)
+End: (5,1)
+Barrier: (5,2)
+
+The 31 round: 
+Start: (4,2)
+End: (3,3)
+Barrier: (2,3)
+
+The 33 round: 
+Start: (3,2)
+End: (2,2)
+Barrier: (3,2)
+
+The 33 round: 
+Start: (3,3)
+End: (5,3)
+Barrier: (7,1)
+
+The 35 round: 
+Start: (8,9)
+End: (7,9)
+Barrier: (8,9)
+
+The 35 round: 
+Start: (10,2)
+End: (10,4)
+Barrier: (7,4)
+
+The 37 round: 
+Start: (7,9)
+End: (5,9)
+Barrier: (7,9)
+
+The 37 round: 
+Start: (10,4)
+End: (9,5)
+Barrier: (6,5)
+
+The 39 round: 
+Start: (5,4)
+End: (2,7)
+Barrier: (5,4)
+
+The 39 round: 
+Start: (5,3)
+End: (4,2)
+Barrier: (4,1)
+
+The 41 round: 
+Start: (2,2)
+End: (3,3)
+Barrier: (5,3)
+
+The 41 round: 
+Start: (4,2)
+End: (3,1)
+Barrier: (4,2)
+
+The 43 round: 
+Start: (3,3)
+End: (2,2)
+Barrier: (2,1)
+
+The 43 round: 
+Start: (4,8)
+End: (5,8)
+Barrier: (5,5)
+
+The 45 round: 
+Start: (2,7)
+End: (2,10)
+Barrier: (5,7)
+
+The 45 round: 
+Start: (5,8)
+End: (4,8)
+Barrier: (5,8)
+
+The 47 round: 
+Start: (2,10)
+End: (2,9)
+Barrier: (3,9)
+
+The 47 round: 
+Start: (8,8)
+End: (8,7)
+Barrier: (7,6)
+
+The 49 round: 
+Start: (2,2)
+End: (1,2)
+Barrier: (2,2)
+
+The 49 round: 
+Start: (8,7)
+End: (8,8)
+Barrier: (8,7)
+
+Fri Jul 28 19:16:48 2023
+
+The 1 round: 
+Start: (4,10)
+End: (4,3)
+Barrier: (9,3)
+
+The 3 round: 
+Start: (7,1)
+End: (7,8)
+Barrier: (9,6)
+
+The 3 round: 
+Start: (10,7)
+End: (8,7)
+Barrier: (8,4)
+
+The 5 round: 
+Start: (1,4)
+End: (4,7)
+Barrier: (2,7)
+
+The 5 round: 
+Start: (1,7)
+End: (2,8)
+Barrier: (5,8)
+
+The 7 round: 
+Start: (4,1)
+End: (4,2)
+Barrier: (8,6)
+
+The 7 round: 
+Start: (7,10)
+End: (7,9)
+Barrier: (5,7)
+
+The 9 round: 
+Start: (10,4)
+End: (9,4)
+Barrier: (7,6)
+
+The 9 round: 
+Start: (2,8)
+End: (3,7)
+Barrier: (3,8)
+
+The 11 round: 
+Start: (7,8)
+End: (8,8)
+Barrier: (6,8)
+
+The 11 round: 
+Start: (7,9)
+End: (8,9)
+Barrier: (3,9)
+
+The 13 round: 
+Start: (4,7)
+End: (4,5)
+Barrier: (4,8)
+
+The 13 round: 
+Start: (8,9)
+End: (7,9)
+Barrier: (9,9)
+
+The 15 round: 
+Start: (4,5)
+End: (3,6)
+Barrier: (4,6)
+
+The 15 round: 
+Start: (4,3)
+End: (5,3)
+Barrier: (8,3)
+
+The 17 round: 
+Start: (9,4)
+End: (8,5)
+Barrier: (6,3)
+
+The 17 round: 
+Start: (5,3)
+End: (4,3)
+Barrier: (4,5)
+
+The 19 round: 
+Start: (3,6)
+End: (2,5)
+Barrier: (4,7)
+
+The 19 round: 
+Start: (3,7)
+End: (2,6)
+Barrier: (1,6)
+
+The 21 round: 
+Start: (8,5)
+End: (7,5)
+Barrier: (10,5)
+
+The 21 round: 
+Start: (8,7)
+End: (9,7)
+Barrier: (6,7)
+
+The 23 round: 
+Start: (7,5)
+End: (7,4)
+Barrier: (4,4)
+
+The 23 round: 
+Start: (4,3)
+End: (5,2)
+Barrier: (8,2)
+
+The 25 round: 
+Start: (4,2)
+End: (3,1)
+Barrier: (9,1)
+
+The 25 round: 
+Start: (5,2)
+End: (3,2)
+Barrier: (3,6)
+
+The 27 round: 
+Start: (3,1)
+End: (4,2)
+Barrier: (4,3)
+
+The 27 round: 
+Start: (3,2)
+End: (4,1)
+Barrier: (8,1)
+
+The 29 round: 
+Start: (2,5)
+End: (2,4)
+Barrier: (2,1)
+
+The 29 round: 
+Start: (4,1)
+End: (5,2)
+Barrier: (5,5)
+
+The 31 round: 
+Start: (7,4)
+End: (7,5)
+Barrier: (5,3)
+
+The 31 round: 
+Start: (5,2)
+End: (4,1)
+Barrier: (2,3)
+
+The 33 round: 
+Start: (4,2)
+End: (5,2)
+Barrier: (5,1)
+
+The 33 round: 
+Start: (4,1)
+End: (3,1)
+Barrier: (1,3)
+
+The 35 round: 
+Start: (5,2)
+End: (3,2)
+Barrier: (5,2)
+
+The 35 round: 
+Start: (3,1)
+End: (2,2)
+Barrier: (3,3)
+
+The 37 round: 
+Start: (8,8)
+End: (8,9)
+Barrier: (10,7)
+
+The 37 round: 
+Start: (7,9)
+End: (6,9)
+Barrier: (6,10)
+
+The 39 round: 
+Start: (2,4)
+End: (2,5)
+Barrier: (1,5)
+
+The 39 round: 
+Start: (6,9)
+End: (7,8)
+Barrier: (6,9)
+
+The 41 round: 
+Start: (2,5)
+End: (3,5)
+Barrier: (2,5)
+
+The 41 round: 
+Start: (9,7)
+End: (8,8)
+Barrier: (9,8)
+
+The 43 round: 
+Start: (8,9)
+End: (7,9)
+Barrier: (8,9)
+
+The 43 round: 
+Start: (7,8)
+End: (8,7)
+Barrier: (7,8)
+
+The 45 round: 
+Start: (3,2)
+End: (3,1)
+Barrier: (3,2)
+
+The 45 round: 
+Start: (8,8)
+End: (6,6)
+Barrier: (8,8)
+
+The 47 round: 
+Start: (7,5)
+End: (6,5)
+Barrier: (7,5)
+
+The 47 round: 
+Start: (2,2)
+End: (1,1)
+Barrier: (1,2)
+
+The 49 round: 
+Start: (6,5)
+End: (7,4)
+Barrier: (6,5)
+
+The 49 round: 
+Start: (1,1)
+End: (2,2)
+Barrier: (1,1)
+
+The 51 round: 
+Start: (7,9)
+End: (8,10)
+Barrier: (10,10)
+
+The 51 round: 
+Start: (6,6)
+End: (5,6)
+Barrier: (6,6)
+
+The 53 round: 
+Start: (7,4)
+End: (8,5)
+Barrier: (9,5)
+
+The 53 round: 
+Start: (8,7)
+End: (9,7)
+Barrier: (10,6)
+
+The 55 round: 
+Start: (8,10)
+End: (9,10)
+Barrier: (10,9)
+
+The 55 round: 
+Start: (2,6)
+End: (3,7)
+Barrier: (2,6)
+
+The 57 round: 
+Start: (3,1)
+End: (4,2)
+Barrier: (3,1)
+
+The 57 round: 
+Start: (3,7)
+End: (2,8)
+Barrier: (1,7)
+
+The 59 round: 
+Start: (3,5)
+End: (2,4)
+Barrier: (1,4)
+
+The 59 round: 
+Start: (2,8)
+End: (1,8)
+Barrier: (1,9)
+
+The 61 round: 
+Start: (2,4)
+End: (3,4)
+Barrier: (3,5)
+
+The 61 round: 
+Start: (1,8)
+End: (3,10)
+Barrier: (2,10)
+
+The 63 round: 
+Start: (4,2)
+End: (4,1)
+Barrier: (4,2)
+
+The 63 round: 
+Start: (3,10)
+End: (2,9)
+Barrier: (1,10)
+
+The 65 round: 
+Start: (3,4)
+End: (2,4)
+Barrier: (3,4)
+
+The 65 round: 
+Start: (2,9)
+End: (2,8)
+Barrier: (3,7)
+
+The 67 round: 
+Start: (8,5)
+End: (7,4)
+Barrier: (5,4)
+
+The 67 round: 
+Start: (2,8)
+End: (1,8)
+Barrier: (2,8)
+
+The 69 round: 
+Start: (7,4)
+End: (7,2)
+Barrier: (6,1)
+
+The 69 round: 
+Start: (1,8)
+End: (3,10)
+Barrier: (4,9)
+
+The 71 round: 
+Start: (7,2)
+End: (7,4)
+Barrier: (7,2)
+
+The 71 round: 
+Start: (3,10)
+End: (2,9)
+Barrier: (1,8)
+
+The 73 round: 
+Start: (7,4)
+End: (7,3)
+Barrier: (6,4)
+
+The 73 round: 
+Start: (9,7)
+End: (7,7)
+Barrier: (8,7)
+
+The 75 round: 
+Start: (7,3)
+End: (6,2)
+Barrier: (7,1)
+
+The 75 round: 
+Start: (2,9)
+End: (3,10)
+Barrier: (4,10)
+
+The 77 round: 
+Start: (6,2)
+End: (7,3)
+Barrier: (6,2)
+
+Game over, White Win!
+
+
+
+The 77 round: 
+Start: (3,10)
+End: (2,9)
+Barrier: (3,10)
+
+Fri Jul 28 19:28:41 2023
+
+The 1 round: 
+Start: (4,10)
+End: (4,3)
+Barrier: (9,3)
+
+The 3 round: 
+Start: (7,1)
+End: (7,8)
+Barrier: (9,6)
+
+The 3 round: 
+Start: (10,7)
+End: (8,7)
+Barrier: (8,4)
+
+The 5 round: 
+Start: (1,4)
+End: (4,7)
+Barrier: (2,7)
+
+The 5 round: 
+Start: (1,7)
+End: (2,8)
+Barrier: (5,8)
+
+The 7 round: 
+Start: (4,1)
+End: (4,2)
+Barrier: (8,6)
+
+The 7 round: 
+Start: (7,10)
+End: (7,9)
+Barrier: (5,7)
+
+The 9 round: 
+Start: (10,4)
+End: (9,4)
+Barrier: (7,6)
+
+The 9 round: 
+Start: (2,8)
+End: (3,7)
+Barrier: (3,8)
+
+The 11 round: 
+Start: (7,8)
+End: (8,8)
+Barrier: (6,8)
+
+The 11 round: 
+Start: (7,9)
+End: (8,9)
+Barrier: (3,9)
+
+The 13 round: 
+Start: (4,7)
+End: (4,5)
+Barrier: (4,8)
+
+The 13 round: 
+Start: (8,9)
+End: (7,9)
+Barrier: (9,9)
+
+The 15 round: 
+Start: (4,5)
+End: (3,6)
+Barrier: (4,6)
+
+The 15 round: 
+Start: (4,3)
+End: (5,3)
+Barrier: (8,3)
+
+The 17 round: 
+Start: (9,4)
+End: (8,5)
+Barrier: (6,3)
+
+The 17 round: 
+Start: (5,3)
+End: (4,3)
+Barrier: (4,5)
+
+The 19 round: 
+Start: (3,6)
+End: (2,5)
+Barrier: (4,7)
+
+The 19 round: 
+Start: (3,7)
+End: (2,6)
+Barrier: (1,6)
+
+The 21 round: 
+Start: (8,5)
+End: (7,5)
+Barrier: (10,5)
+
+The 21 round: 
+Start: (8,7)
+End: (9,7)
+Barrier: (6,7)
+
+The 23 round: 
+Start: (7,5)
+End: (7,4)
+Barrier: (4,4)
+
+The 23 round: 
+Start: (4,3)
+End: (5,2)
+Barrier: (8,2)
+
+The 25 round: 
+Start: (4,2)
+End: (3,1)
+Barrier: (9,1)
+
+The 25 round: 
+Start: (5,2)
+End: (3,2)
+Barrier: (3,6)
+
+The 27 round: 
+Start: (3,1)
+End: (4,2)
+Barrier: (4,3)
+
+The 27 round: 
+Start: (7,9)
+End: (7,8)
+Barrier: (7,9)
+
+The 29 round: 
+Start: (8,8)
+End: (8,9)
+Barrier: (8,7)
+
+The 29 round: 
+Start: (7,8)
+End: (6,9)
+Barrier: (6,10)
+
+The 31 round: 
+Start: (4,2)
+End: (4,1)
+Barrier: (4,2)
+
+The 31 round: 
+Start: (3,2)
+End: (2,3)
+Barrier: (2,1)
+
+The 33 round: 
+Start: (4,1)
+End: (3,2)
+Barrier: (1,2)
+
+The 33 round: 
+Start: (2,3)
+End: (2,2)
+Barrier: (2,3)
+
+The 35 round: 
+Start: (3,2)
+End: (3,1)
+Barrier: (3,2)
+
+The 35 round: 
+Start: (9,7)
+End: (9,8)
+Barrier: (9,7)
+
+The 37 round: 
+Start: (7,4)
+End: (7,5)
+Barrier: (6,6)
+
+The 37 round: 
+Start: (6,9)
+End: (7,10)
+Barrier: (6,9)
+
+The 39 round: 
+Start: (7,5)
+End: (9,5)
+Barrier: (5,5)
+
+The 39 round: 
+Start: (7,10)
+End: (10,10)
+Barrier: (10,6)
+
+The 41 round: 
+Start: (2,5)
+End: (2,4)
+Barrier: (3,3)
+
+The 41 round: 
+Start: (10,10)
+End: (9,10)
+Barrier: (7,10)
+
+The 43 round: 
+Start: (8,9)
+End: (8,8)
+Barrier: (8,9)
+
+The 43 round: 
+Start: (2,6)
+End: (2,5)
+Barrier: (1,5)
+
+Fri Jul 28 19:37:52 2023
+
+The 1 round: 
+Start: (4,10)
+End: (4,3)
+Barrier: (2,5)
+
+The 3 round: 
+Start: (7,1)
+End: (7,8)
+Barrier: (9,6)
+
+The 3 round: 
+Start: (10,7)
+End: (6,7)
+Barrier: (10,3)
+
+The 5 round: 
+Start: (1,4)
+End: (4,4)
+Barrier: (5,3)
+
+The 5 round: 
+Start: (7,10)
+End: (8,9)
+Barrier: (8,3)
+
+The 7 round: 
+Start: (4,4)
+End: (4,6)
+Barrier: (4,9)
+
+The 7 round: 
+Start: (1,7)
+End: (3,7)
+Barrier: (3,5)
+
+The 9 round: 
+Start: (10,4)
+End: (8,4)
+Barrier: (5,4)
+
+The 9 round: 
+Start: (6,7)
+End: (6,4)
+Barrier: (6,8)
+
+The 11 round: 
+Start: (4,1)
+End: (3,2)
+Barrier: (3,3)
+
+The 11 round: 
+Start: (6,4)
+End: (7,3)
+Barrier: (7,5)
+
+The 13 round: 
+Start: (4,6)
+End: (4,8)
+Barrier: (2,8)
+
+The 13 round: 
+Start: (8,9)
+End: (8,8)
+Barrier: (8,5)
+
+The 15 round: 
+Start: (7,8)
+End: (8,9)
+Barrier: (9,9)
+
+The 15 round: 
+Start: (3,7)
+End: (3,8)
+Barrier: (7,4)
+
+The 17 round: 
+Start: (4,8)
+End: (3,7)
+Barrier: (9,7)
+
+The 17 round: 
+Start: (4,3)
+End: (3,4)
+Barrier: (7,8)
+
+The 19 round: 
+Start: (8,9)
+End: (7,10)
+Barrier: (9,8)
+
+The 19 round: 
+Start: (3,4)
+End: (2,3)
+Barrier: (2,2)
+
+The 21 round: 
+Start: (3,2)
+End: (6,2)
+Barrier: (8,2)
+
+The 21 round: 
+Start: (7,3)
+End: (7,2)
+Barrier: (7,3)
+
+The 23 round: 
+Start: (6,2)
+End: (6,1)
+Barrier: (6,6)
+
+The 23 round: 
+Start: (8,8)
+End: (8,9)
+Barrier: (8,10)
+
+The 25 round: 
+Start: (6,1)
+End: (4,1)
+Barrier: (8,1)
+
+The 25 round: 
+Start: (7,2)
+End: (5,2)
+Barrier: (4,2)
+
+The 27 round: 
+Start: (8,4)
+End: (9,5)
+Barrier: (7,7)
+
+The 27 round: 
+Start: (3,8)
+End: (4,7)
+Barrier: (6,9)
+
+The 29 round: 
+Start: (7,10)
+End: (1,10)
+Barrier: (1,2)
+
+The 29 round: 
+Start: (2,3)
+End: (3,2)
+Barrier: (3,1)
+
+The 31 round: 
+Start: (1,10)
+End: (1,4)
+Barrier: (2,3)
+
+The 31 round: 
+Start: (4,7)
+End: (3,8)
+Barrier: (1,6)
+
+The 33 round: 
+Start: (1,4)
+End: (4,4)
+Barrier: (4,3)
+
+The 33 round: 
+Start: (3,8)
+End: (4,8)
+Barrier: (4,5)
+
+The 35 round: 
+Start: (4,1)
+End: (6,1)
+Barrier: (4,1)
+
+The 35 round: 
+Start: (4,8)
+End: (3,8)
+Barrier: (4,8)
+
+The 37 round: 
+Start: (4,4)
+End: (5,5)
+Barrier: (6,4)
+
+The 37 round: 
+Start: (8,9)
+End: (8,8)
+Barrier: (6,10)
+
+The 39 round: 
+Start: (5,5)
+End: (5,10)
+Barrier: (5,6)
+
+The 39 round: 
+Start: (3,8)
+End: (4,7)
+Barrier: (6,7)
+
+The 41 round: 
+Start: (9,5)
+End: (8,6)
+Barrier: (8,7)
+
+The 41 round: 
+Start: (4,7)
+End: (4,6)
+Barrier: (2,6)
+
+The 43 round: 
+Start: (5,10)
+End: (5,7)
+Barrier: (4,7)
+
+The 43 round: 
+Start: (5,2)
+End: (6,2)
+Barrier: (5,1)
+
+The 45 round: 
+Start: (3,7)
+End: (3,6)
+Barrier: (3,7)
+
+The 45 round: 
+Start: (6,2)
+End: (7,2)
+Barrier: (7,1)
+
+The 47 round: 
+Start: (6,1)
+End: (6,2)
+Barrier: (6,1)
+
+The 47 round: 
+Start: (4,6)
+End: (5,5)
+Barrier: (4,6)
+
+The 49 round: 
+Start: (6,2)
+End: (6,3)
+Barrier: (6,2)
+
+The 49 round: 
+Start: (3,2)
+End: (2,1)
+Barrier: (1,1)
+
+The 51 round: 
+Start: (8,6)
+End: (10,4)
+Barrier: (10,10)
+
+The 51 round: 
+Start: (2,1)
+End: (3,2)
+Barrier: (2,1)
+
+The 53 round: 
+Start: (10,4)
+End: (8,6)
+Barrier: (7,6)
+
+The 53 round: 
+Start: (8,8)
+End: (8,9)
+Barrier: (7,9)
+
+The 55 round: 
+Start: (8,6)
+End: (10,4)
+Barrier: (10,9)
+
+Fri Jul 28 20:03:57 2023
+
+The 1 round: 
+Start: (1,7)
+End: (1,6)
+Barrier: (1,5)
+
+The 3 round: 
+Start: (4,1)
+End: (4,9)
+Barrier: (7,9)
+
+The 3 round: 
+Start: (1,6)
+End: (1,7)
+Barrier: (1,6)
+
+The 5 round: 
+Start: (10,4)
+End: (8,6)
+Barrier: (2,6)
+
+The 5 round: 
+Start: (1,7)
+End: (1,8)
+Barrier: (1,7)
+
+Fri Jul 28 23:01:32 2023
+
+The 1 round: 
+Start: (1,7)
+End: (1,6)
+Barrier: (1,5)
+
+The 2 round: 
+Start: (1,4)
+End: (1,3)
+Barrier: (1,2)
+
+The 3 round: 
+Start: (1,6)
+End: (1,7)
+Barrier: (1,6)
+
+The 4 round: 
+Start: (1,3)
+End: (1,4)
+Barrier: (1,3)
+
+The 5 round: 
+Start: (1,7)
+End: (1,8)
+Barrier: (1,7)
+
+The 6 round: 
+Start: (1,4)
+End: (2,5)
+Barrier: (2,4)
+
+The 7 round: 
+Start: (1,8)
+End: (1,9)
+Barrier: (1,8)
+
+The 8 round: 
+Start: (2,5)
+End: (1,4)
+Barrier: (2,5)
+
+The 9 round: 
+Start: (1,9)
+End: (1,10)
+Barrier: (1,9)
+
+The 10 round: 
+Start: (1,4)
+End: (2,3)
+Barrier: (2,2)
+
+The 11 round: 
+Start: (1,10)
+End: (2,10)
+Barrier: (2,9)
+
+The 12 round: 
+Start: (2,3)
+End: (1,4)
+Barrier: (2,3)
+
+The 13 round: 
+Start: (2,10)
+End: (1,10)
+Barrier: (2,10)
+
+The 14 round: 
+Start: (4,1)
+End: (3,1)
+Barrier: (2,1)
+
+The 15 round: 
+Start: (4,10)
+End: (4,9)
+Barrier: (4,8)
+
+The 16 round: 
+Start: (3,1)
+End: (3,2)
+Barrier: (3,1)
+
+The 17 round: 
+Start: (4,9)
+End: (3,8)
+Barrier: (3,7)
+
+The 18 round: 
+Start: (3,2)
+End: (3,3)
+Barrier: (3,2)
+
+The 19 round: 
+Start: (3,8)
+End: (2,7)
+Barrier: (2,6)
+
+The 20 round: 
+Start: (3,3)
+End: (3,4)
+Barrier: (3,3)
+
+The 21 round: 
+Start: (2,7)
+End: (2,8)
+Barrier: (2,7)
+
+The 22 round: 
+Start: (3,4)
+End: (3,5)
+Barrier: (3,4)
+
+The 23 round: 
+Start: (2,8)
+End: (3,9)
+Barrier: (3,8)
+
+The 24 round: 
+Start: (3,5)
+End: (3,6)
+Barrier: (3,5)
+
+The 25 round: 
+Start: (3,9)
+End: (2,8)
+Barrier: (3,9)
+
+The 26 round: 
+Start: (3,6)
+End: (4,7)
+Barrier: (4,6)
+
+The 27 round: 
+Start: (7,10)
+End: (7,9)
+Barrier: (7,8)
+
+The 28 round: 
+Start: (4,7)
+End: (3,6)
+Barrier: (4,7)
+
+The 29 round: 
+Start: (7,9)
+End: (6,8)
+Barrier: (6,7)
+
+The 30 round: 
+Start: (3,6)
+End: (4,5)
+Barrier: (4,4)
+
+The 31 round: 
+Start: (6,8)
+End: (5,7)
+Barrier: (5,6)
+
+The 32 round: 
+Start: (4,5)
+End: (3,6)
+Barrier: (4,5)
+
+The 33 round: 
+Start: (5,7)
+End: (5,8)
+Barrier: (5,7)
+
+The 34 round: 
+Start: (7,1)
+End: (6,1)
+Barrier: (5,1)
+
+The 35 round: 
+Start: (5,8)
+End: (4,9)
+Barrier: (3,10)
+
+The 36 round: 
+Start: (6,1)
+End: (5,2)
+Barrier: (4,1)
+
+The 37 round: 
+Start: (4,9)
+End: (4,10)
+Barrier: (4,9)
+
+The 38 round: 
+Start: (5,2)
+End: (4,2)
+Barrier: (4,3)
+
+The 39 round: 
+Start: (4,10)
+End: (5,10)
+Barrier: (5,9)
+
+The 40 round: 
+Start: (4,2)
+End: (5,3)
+Barrier: (5,2)
+
+The 41 round: 
+Start: (5,10)
+End: (4,10)
+Barrier: (5,10)
+
+The 42 round: 
+Start: (5,3)
+End: (4,2)
+Barrier: (5,3)
+
+The 43 round: 
+Start: (10,7)
+End: (10,6)
+Barrier: (10,5)
+
+The 44 round: 
+Start: (10,4)
+End: (10,3)
+Barrier: (10,2)
+
+The 45 round: 
+Start: (10,6)
+End: (9,5)
+Barrier: (9,4)
+
+The 46 round: 
+Start: (10,3)
+End: (9,2)
+Barrier: (9,1)
+
+The 47 round: 
+Start: (9,5)
+End: (8,4)
+Barrier: (8,3)
+
+The 48 round: 
+Start: (9,2)
+End: (8,1)
+Barrier: (7,1)
+
+The 49 round: 
+Start: (8,4)
+End: (7,3)
+Barrier: (7,2)
+
+The 50 round: 
+Start: (8,1)
+End: (8,2)
+Barrier: (8,1)
+
+The 51 round: 
+Start: (7,3)
+End: (6,2)
+Barrier: (6,1)
+
+The 52 round: 
+Start: (8,2)
+End: (7,3)
+Barrier: (6,4)
+
+The 53 round: 
+Start: (6,2)
+End: (6,3)
+Barrier: (6,2)
+
+The 54 round: 
+Start: (7,3)
+End: (7,4)
+Barrier: (7,3)
+
+The 55 round: 
+Start: (6,3)
+End: (5,4)
+Barrier: (5,5)
+
+The 56 round: 
+Start: (7,4)
+End: (6,3)
+Barrier: (8,5)
+
+The 57 round: 
+Start: (5,4)
+End: (6,5)
+Barrier: (5,4)
+
+The 58 round: 
+Start: (6,3)
+End: (7,4)
+Barrier: (6,3)
+
+The 59 round: 
+Start: (6,5)
+End: (6,6)
+Barrier: (6,5)
+
+The 60 round: 
+Start: (7,4)
+End: (7,5)
+Barrier: (7,4)
+
+The 61 round: 
+Start: (6,6)
+End: (7,7)
+Barrier: (7,6)
+
+The 62 round: 
+Start: (7,5)
+End: (6,6)
+Barrier: (8,4)
+
+The 63 round: 
+Start: (7,7)
+End: (6,8)
+Barrier: (5,8)
+
+The 64 round: 
+Start: (6,6)
+End: (7,7)
+Barrier: (6,6)
+
+The 65 round: 
+Start: (6,8)
+End: (6,9)
+Barrier: (6,8)
+
+The 66 round: 
+Start: (7,7)
+End: (8,8)
+Barrier: (8,7)
+
+The 67 round: 
+Start: (6,9)
+End: (6,10)
+Barrier: (6,9)
+
+The 68 round: 
+Start: (8,8)
+End: (7,7)
+Barrier: (8,8)
+
+The 69 round: 
+Start: (6,10)
+End: (7,10)
+Barrier: (7,9)
+
+The 70 round: 
+Start: (7,7)
+End: (8,6)
+Barrier: (7,5)
+
+The 71 round: 
+Start: (7,10)
+End: (6,10)
+Barrier: (8,10)
+
+The 72 round: 
+Start: (8,6)
+End: (7,7)
+Barrier: (9,5)
+
+The 73 round: 
+Start: (6,10)
+End: (7,10)
+Barrier: (6,10)
+
+The 74 round: 
+Start: (7,7)
+End: (8,6)
+Barrier: (7,7)
+
+The 75 round: 
+Start: (7,10)
+End: (8,9)
+Barrier: (7,10)
+
+The 76 round: 
+Start: (8,6)
+End: (9,7)
+Barrier: (9,6)
+
+The 77 round: 
+Start: (8,9)
+End: (9,10)
+Barrier: (9,9)
+
+The 78 round: 
+Start: (9,7)
+End: (8,6)
+Barrier: (10,8)
+
+The 79 round: 
+Start: (9,10)
+End: (8,9)
+Barrier: (10,7)
+
+The 80 round: 
+Start: (8,6)
+End: (9,7)
+Barrier: (8,6)
+
+The 81 round: 
+Start: (8,9)
+End: (9,8)
+Barrier: (8,9)
+
+Game over, Black Win!
+
+
+
+The 82 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 83 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 84 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 85 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 86 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 87 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 88 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+Game over, Black Win!
+
+
+
+The 89 round: 
+Start: (9,7)
+End: (10,6)
+Barrier: (9,7)
+
+1 g1g7(d7) j7g4(e2)
+2 a4c6(c10) g10i8(i3)
+3 j4h4(h3) d10f8(a3)
+4 g7g9(i7) g4g3(e1)
+5 d1d4(g7) i8d3(c3)
+6 c6b7(b8) f8g8(c4)
+1 g1g7(d7) j7f3(i3)
+2 a4c6(a6) g10i8(i4)
+3 c6c7(b6) a7b7(b9)
+4 d1d3(b5) b7d5(j5)
+5 g7h8(h1) d10d9(g9)
+6 j4i5(f2) f3g3(g8)
+7 i5h4(h2) d5b3(c2)
+8 h4h5(h3) g3f4(d2)
+9 d3e4(e8) i8i5(i9)
+10 h8g7(b2) i5i8(i5)
+11 h5h10(h4) b3c4(e2)
+12 e4f3(g3) f4g5(e3)
+13 g7f6(b10) d9c8(b8)
+14 c7b7(d5) c8d8(c7)
+15 b7d9(c9) g5f5(g4)
+16 f3e4(f4) d8e9(g7)
+17 h10h7(h9) c4d4(d3)
+18 e4g2(e4) i8i7(i8)
+19 g2f1(a1) d4c5(d4)
+20 f1b1(g1) c5c4(a2)
+21 f6d6(c6) c4b4(c4)
+22 d6f6(d8) f5g6(i6)
+23 h7h6(h8) b4d6(f8)
+1 g1g7(d7) j7f3(i3)
+2 a4c6(a6) g10i8(i4)
+3 c6c7(b6) a7b7(b9)
+4 d1d3(b5) b7d5(j5)
+5 g7h8(h1) d10d9(g9)
+6 j4i5(f2) f3g3(g8)
+7 i5h4(h2) d5b3(c2)
+8 h4h5(h3) g3f4(d2)
+9 d3e4(e8) i8i5(i9)
+10 h8g7(b2) i5i8(i5)
+11 h5h10(h4) b3c4(e2)
+12 e4f3(g3) f4g5(e3)
+13 g7f6(b10) d9c8(b8)
+14 c7b7(d5) c8d8(c7)
+15 b7d9(c9) g5f5(g4)
+16 f3e4(f4) d8e9(g7)
+17 h10h7(h9) c4d4(d3)
+18 e4g2(e4) i8i7(i8)
+19 g2f1(a1) d4c5(d4)
+20 f1b1(g1) c5c4(a2)
+21 f6d6(c6) c4b4(c4)
+22 d6f6(d8) f5g6(i6)
+23 h7h6(h8) b4d6(f8)
+24 h6h5(h7) i7h6(g5)
+25 d9e10(c10) e9d9(e9)
+26 e10j10(e10) h6j8(j7)
+27 j10i10(j9) g6f7(e6)
+28 h5h6(g6) j8i7(j8)
+29 f6e5(f6) d6c5(d6)
+30 h6h5(h6) c5b4(a5)
+31 i10f10(f9) b4a4(a3)
+32 e5f5(e5) a4b4(b3)
+33 b1e1(b1) i7j6(i7)
+34 e1f1(c1) d9c8(d9)
+35 f10g10(f10) c8b7(a7)
+36 f1e1(d1) b7a8(a10)
+37 e1f1(e1) a8a9(a8)
+38 g10j10(g10) b4a4(b4)
+1 g1g7(d7) j7f3(i3)
+2 a4c6(a6) g10i8(i4)
+3 c6c7(b6) a7b7(b9)
+4 d1d3(b5) b7d5(j5)
+5 g7h8(h1) d10d9(g9)
+6 j4i5(f2) f3g3(g8)
+7 i5h5(h2) d5c4(c2)
+1 g1g7(d7) j7f3(i3)
+2 a4c6(a6) g10i8(i4)
+3 c6c7(b6) a7b7(b9)
+4 d1d3(b5) b7d5(j5)
+5 g7h8(h1) d10d9(g9)
+6 j4i5(f2) f3g3(g8)
+7 i5h4(h2) d5b3(c2)
+8 h4h5(h3) g3f4(d2)
+9 d3e4(e8) i8i5(i9)
+10 h8g7(b2) i5i8(i5)
+11 h5h10(h4) b3c4(e2)
+12 e4f3(g3) f4g5(e3)
+13 g7f6(b10) d9c8(b8)
+14 c7b7(d5) c8d8(c7)
+15 b7d9(c9) g5f5(g4)
+16 f3e4(f4) d8e9(g7)
+17 h10h7(h9) c4d4(d3)
+18 e4g2(e4) i8i7(i8)
+19 g2f1(a1) d4c5(d4)
+20 f1b1(g1) c5c4(a2)
+21 f6d6(c6) c4b4(c4)
+22 d6f6(d8) f5g6(i6)
+23 h7h6(h8) b4d6(f8)
+24 h6h5(h7) i7h6(g5)
+25 d9e10(c10) e9d9(e9)
+26 e10j10(e10) h6j8(j7)
+27 j10i10(j9) g6f7(e6)
+28 h5h6(g6) j8i7(j8)
+29 f6e5(f6) d6c5(d6)
+30 h6h5(h6) c5b4(a5)
+31 i10f10(f9) b4a4(a3)
+32 e5f5(e5) a4b4(b3)
+33 b1e1(b1) i7j6(i7)
+34 e1f1(c1) d9c8(d9)
+35 f10g10(f10) c8b7(a7)
+36 f1e1(d1) b7a8(a10)
+37 e1f1(e1) a8a9(a8)
+38 g10h10(j10) b4a4(b4)
+39 f1g2(f1) f7e7(f7)
+1 d1d8(b6) g10g4(d7)
+2 j4h6(h3) d10f8(d10)
+3 a4d4(i9) g4e4(g6)
+4 g1g3(d3) a7a2(i10)
+5 h6i7(g9) e4e5(i5)
+6 d4c3(b2) f8f4(c4)
+7 i7i8(i6) a2a8(c8)
+8 d8e7(b10) j7j2(h4)
+9 g3h2(i1) j2j3(i3)
+10 i8h8(h5) j3j7(h7)
+11 h8i8(j8) j7j1(i2)
+12 h2g3(e3) f4f7(h9)
+13 i8j7(j3) f7f8(d8)
+14 e7e8(e9) a8a4(c6)
+15 c3b4(d6) e5d5(e6)
+16 g3f4(e4) d5a5(f5)
+17 e8f9(e8) a4c2(a4)
+18 b4b5(a6) a5d2(b4)
+19 f4f2(g3) c2d1(f3)
+20 b5e5(g7) d2c2(d2)
+21 e5c3(f6) f8g8(f8)
+22 f2e2(e1) g8i8(h8)
+23 j7i7(h6) i8j7(i8)
+24 i7j6(i7) d1c1(d1)
+25 c3e5(c3) c2b3(a3)
+26 e5d5(a5) b3c2(b3)
+27 d5c5(b5) c2b1(a1)
+28 c5d4(d5) b1c2(b1)
+29 d4c5(d4) j1j2(j1)
+30 d4c5(d4)1 g1g7(d7) j7f3(i3)
+2 j4j8(e3) g10g8(b3)
+3 j8f4(f10) a7a5(b5)
+4 f4c7(c10) a5b4(e1)
+5 d1c2(c5) d10b8(f8)
+6 a4a9(h9) f3g3(g6)
+7 c2g2(c6) g8h8(h1)
+8 c7f4(j8) b4c3(e5)
+9 f4g4(h4) g3h3(f3)
+10 g2d2(c1) b8c8(b8)
+11 g7h7(i7) c8c7(c9)
+12 a9a6(b6) c7c8(b7)
+13 a6a10(a1) h8g8(i8)
+14 h7g7(h7) c8b9(b10)
+15 a10a4(e4) b9a10(a5)
+16 a4d4(d3) a10c8(e8)
+17 d2e2(j2) g8h8(g9)
+18 g7g8(g7) c8d9(f9)
+19 d4c4(a4) d9d8(f6)
+20 e2d2(g2) d8e7(f7)
+21 g4h5(f5) h3i4(i6)
+22 d2f2(a2) e7d6(e6)
+23 h5j5(j7) i4h3(g3)
+24 j5h5(j5) h3i4(i5)
+25 f2d2(b2) i4h3(i4)
+26 h5g5(g4) d6d5(d4)
+27 d2f2(d2) h3h2(g1)
+1 g1g7(d7) j7f3(i3)
+2 a4c6(a6) g10i8(i4)
+3 c6c7(b6) a7b7(b9)
+4 d1d3(b5) b7d5(j5)
+5 g7h8(h1) d10d9(g9)
+6 j4i5(f2) f3g3(g8)
+6 h8f6(f5) d5c4(g8)
+1 g1g7(d7) j7f3(i3)
+2 a4c6(a6) g10i8(i4)
+3 c6c7(b6) a7b7(b9)
+4 d1d3(b5) b7d5(j5)
+5 g7h8(h1) d10d9(g9)
+6 j4i5(f2) f3g3(g8)
+7 i5h4(h2) d5b3(c2)
+8 h4h5(h3) g3f4(d2)
+9 d3e4(e8) i8i5(i9)
+10 h8g7(b2) i5i8(i5)
+11 h5h10(h4) b3c4(e2)
+12 e4f3(g3) f4g5(e3)
+13 g7f6(b10) d9c8(b8)
+14 c7b7(d5) c8d8(c7)
+15 b7d9(c9) g5f5(g4)
+16 f3e4(f4) d8e9(g7)
+17 h10h7(h9) c4d4(d3)
+18 e4g2(e4) i8i7(i8)
+19 g2f1(a1) d4c5(d4)
+20 f1b1(g1) c5c4(a2)
+21 f6d6(c6) c4b4(c4)
+22 d6f6(d8) f5g6(i6)
+23 h7h6(h8) b4d6(f8)
+24 h6h5(h7) i7h6(g5)
+25 d9e10(c10) e9d9(e9)
+26 e10j10(e10) h6j8(j7)
+27 j10i10(j9) g6f7(e6)
+28 h5h6(g6) j8i7(j8)
+29 f6e5(f6) d6c5(d6)
+30 h6h5(h6) c5b4(a5)
+31 i10f10(f9) b4a4(a3)
+32 e5f5(e5) a4b4(b3)
+33 b1e1(b1) i7j6(i7)
+34 e1f1(c1) d9c8(d9)
+35 f10g10(f10) c8b7(a7)
+36 f1e1(d1) b7a8(a10)
+37 e1f1(e1) a8a9(a8)
+38 g10h10(j10) b4a4(b4)
+39 f1g2(f1) f7e7(f7)
+1 d1d8(b6) g10g3(i5)
+2 j4f4(j8) a7d7(e8)
+3 f4i7(i10) j7i8(h8)
+4 a4c4(f4) d10c9(e9)
+5 g1h2(h7) d7d4(d7)
+6 i7h6(h4) g3g2(g7)
+7 d8c8(b8) d4c3(i3)
+8 h2h3(h1) i8h9(e6)
+9 c4d3(d4) g2f3(b7)
+10 d3c4(a2) f3h5(b5)
+11 c4b3(b4) c3c2(g2)
+12 h6g6(i6) c2c3(g3)
+13 b3c2(d3) h5j3(i2)
+14 c8b9(b10) j3h5(i4)
+15 h3g4(f5) h5h6(g5)
+16 g6f7(f10) h9g8(f8)
+17 c2b2(b3) c3e1(a1)
+18 b9c8(b9) e1e2(c2)
+19 b2c1(g1) c9d9(c9)
+20 c1d2(e3) d9d8(d9)
+21 c8c7(c5) e2d1(f3)
+22 d2c1(b1) d1d2(d1)
+23 c1a3(c1) d2c3(b2)
+24 f7e7(f7) h6g6(h5)
+25 c7c8(c7) g6f6(e5)
+26 a3a4(a3) g8h9(h10)
+27 e7d6(e7) c3c4(d5)
+28 g4h3(g4) h9j7(j1)
+29 h3h2(i1) j7i8(i9)
+30 a4a5(a7) i8j7(j2)
+31 a5a4(a5) j7i8(j7)
+32 d6c6(d6) i8h9(g9)
+33 h2h3(h2)1 g1g8(i6) d10d3(b5)
+2 a4e4(a8) j7g7(f8)
+3 e4b7(d9) a7b8(i1)
+4 j4h4(h6) g7g4(g7)
+5 d1c2(e2) d3c3(i3)
+6 h4h3(h5) g10h9(f9)
+7 b7c8(c7) b8c9(b9)
+8 g8h8(i8) g4g3(d6)
+9 c8d7(d8) c9c8(c10)
+10 d7c6(c4) h9i9(g9)
+11 h8h9(e6) c8b8(b6)
+12 c6b7(a7) g3h4(e4)
+13 b7c8(a6) h4g3(h2)
+14 c2b3(b2) b8c9(b8)
+15 b3c2(d2) c3b3(d3)
+16 c8d7(f7) c9d10(g10)
+17 h9h8(h10) i9j8(j1)
+18 c2c3(e5) b3b4(b3)
+19 d7e8(e10) d10c9(d10)
+20 e8e7(h4) c9c8(d7)
+21 e7f6(f3) g3g1(b1)
+22 h3g2(f2) g1h1(c1)
+23 f6f5(i2) h1f1(h1)
+24 f5h7(j7) j8i9(h9)
+25 c3d4(c5) c8b7(d5)
+26 d4c3(c2) i9j8(i9)
+27 c3d4(c3) j8i7(j6)
+28 d4e3(d4) f1g1(f1)
+29 e3f4(f5) i7j8(i7)
+30 f4e3(f4) b4a4(b4)
+31 g2g3(g2) a4a3(a1)
+32 g3g4(g5) a3a2(a5)
+33 g4g3(g4) a2a3(a2)
+34 g3h3(g3) a3a4(a3)
+35 h3i4(j4) j8j10(j8)
+36 i4h3(j5)1 g1g8(i6) d10d3(b5)
+2 a4e4(a8) j7g7(f8)
+3 e4b7(d9) a7b8(i1)
+4 j4h4(h6) g7g4(g7)
+5 d1c2(e2) d3c3(i3)
+6 h4h3(h5) g10h9(f9)
+7 b7c8(c7) b8c9(b9)
+8 g8h8(i8) g4g3(d6)
+9 c8d7(d8) c9c8(c10)
+10 d7c6(c4) h9i9(g9)
+11 h8h9(e6) c8b8(b6)
+12 c6b7(a7) g3h4(e4)
+13 b7c8(a6) h4g3(h2)
+14 c2b3(b2) b8c9(b8)
+15 b3c2(d2) c3b3(d3)
+16 c8d7(f7) c9d10(g10)
+17 h9h8(h10) i9j8(j1)
+18 c2c3(e5) b3b4(b3)
+19 d7e8(e10) d10c9(d10)
+20 e8e7(h4) c9c8(d7)
+21 e7f6(f3) g3g1(b1)
+22 h3g2(f2) g1h1(c1)
+23 f6f5(i2) h1f1(h1)
+24 f5h7(j7) j8i9(h9)
+25 c3d4(c5) c8b7(d5)
+26 d4c3(c2) i9j8(i9)
+27 c3d4(c3) j8i7(j6)
+28 d4e3(d4) f1g1(f1)
+29 e3f4(f5) i7j8(i7)
+30 f4e3(f4) b4a4(b4)
+31 g2g3(g2) a4a3(a1)
+32 g3g4(g5) a3a2(a5)
+33 g4g3(g4) a2a3(a2)
+34 g3h3(g3) a3a4(a3)
+35 h3i4(j4) j8j9(j8)
+36 i4h3(j5) j9i10(j10)
+37 h3i4(h3) i10j9(i10)
+38 i4j3(j2) b7c8(b7)
+39 j3i4(i5) c8c9(c8)
+40 h7g6(f6) c9b10(a10)
+41 g6h7(g8) b10a9(b10)
+42 g6h7(g8)
+#[AM][东北大学秦皇岛分校悟空亚马逊][亚马逊棋][先手胜][2023.8.4 18:54:16 线上][国赛];
+1 d1d8(b6) g10g3(i5)
+2 j4j6(j2) j7i7(d7)
+3 j6j8(h8) a7c7(c9)
+4 g1h2(h3) d10f8(b4)
+5 a4c2(f2) g3d3(g3)
+6 d8c8(b8) c7b7(h1)
+7 j8i8(j8) i7i6(g6)
+8 c2c3(c2) d3d2(d4)
+9 h2i3(i4) d2e2(c4)
+10 c3d2(d3) e2f3(e3)
+11 i3h2(g2) f3d1(f3)
+12 d2c1(d2) d1e1(d1)
+13 c1a3(a8) b7c7(d8)
+14 h2i3(g1) i6h5(h7)
+15 i3h4(e4) f8f9(j9)
+16 i8h9(d5) c7c6(a4)
+17 h9g9(d6) c6c7(b7)
+18 c8d9(c8) f9f7(h9)
+19 d9e8(f8) h5i6(g4)
+20 g9g8(g7) f7f6(f4)
+21 g8f7(e7) i6i10(c10)
+22 h4g5(f5) i10i6(i10)
+23 g5h4(h6) i6j7(h5)
+24 h4i3(g5) j7i6(j5)
+25 f7e6(f7) i6i9(h10)
+26 e6e5(e6) c7c6(c7)
+27 a3b3(c3) c6b5(a5)
+28 i3h2(j4) b5a6(a7)
+29 h2i3(h4) a6b5(a6)
+30 i3j3(i3) b5c5(c6)
+31 j3i2(j3) c5b5(c5)
+32 i2h2(i2) e1e2(e1)
+33 h2i1(h2) i9j10(i9)
+34 i1j1(i1) e2f1(e2)
+//[AM]]亚马逊棋[[东北大学秦皇岛分校悟空亚马逊][后手胜][2023.8.4 线上][国赛] -
+1 g1g8(i6) d10d3(i3)
+2 a4d7(i7) a7b8(c8)
+3 d1d2(c2) d3c3(c6)
+4 j4j3(j6) j7h9(h8)
+5 j3i4(d4) g10e8(d8)
+6 d7c7(f4) e8h5(h7)
+7 i4h4(g5) h5g4(d7)
+8 h4h3(h5) g4g3(e1)
+9 c7b6(b2) h9g9(h9)
+10 g8f8(a3) c3c4(a6)
+11 d2e3(b3) c4d3(d2)
+12 e3e2(j2) d3c4(f7)
+13 b6c5(d5) b8c9(e9)
+14 c5b6(c5) c9b8(b7)
+15 f8f10(h10) g9f9(e10)
+16 f10g10(g8) f9f8(f9)
+17 g10f10(g9) f8g7(e5)
+18 f10g10(f10) g7g6(d6)
+19 b6b5(b4) b8c7(b6)
+20 b5a5(a4) c4d3(b5)
+21 e2g2(e2) d3f3(g4)
+22 g2f2(h2) g3h4(i4)
+23 h3i2(h3) f3e3(f3)
+24 f2g3(f2) c7b8(a7)
+25 i2h1(g2) h4i5(h4)
+26 h1f1(g1)
+1 g1g8(i6) d10d3(b5)
+2 a4e4(a8) j7e7(f8)
+3 d1c2(c7) a7f2(f5)
+4 e4b7(e4) f2h4(h8)
+5 j4h2(e2) d3c3(b2)
+6 g8h9(c9) e7d8(d1)
+7 b7c8(d7) h4h3(i3)
+8 h2g3(d6) d8d9(d8)
+9 c2b3(f7) g10g6(e6)
+10 h9g8(e10) d9h9(d9)
+11 g8h7(h5) g6g5(g8)
+12 h7i8(i10) g5e3(j8)
+13 c8b8(b6) e3g5(i7)
+14 g3g2(i2) g5e3(g3)
+15 b8b9(b7) c3b4(e1)
+16 b3c3(c6) e3h6(h7)
+17 c3b3(e3) h3h1(h3)
+18 b3c3(a3) h6f4(f3)
+19 b9b10(a10) f4j4(j7)
+20 b10d10(b10) h9g9(e9)
+21 c3c4(c5) j4g7(d4)
+22 c4b3(a4) g9i9(h9)
+23 b3c3(b3) g7h6(j4)
+24 c3c4(c3) h6f4(e5)
+25 g2h2(g1) h1i1(h1)
+26 i8j9(j10) i9h10(i9)
+27 c4d3(c4) f4h6(f4)
+28 d3c2(c1) b4a5(b4)
+29 d10c10(d10) a5a7(b8)
+30 c10b9(a9) h10g10(f10)
+31 b9c8(b9) g10f9(g10)
+32 c2b1(a2) f9e8(e7)
+33 b1c2(d2) h6g7(g4)
+34 c2b1(a1) a7a6(a7)
+35 h2g2(h2) e8f9(e8)
+36 b1c2(b1) f9g9(h10)
+37 c2d3(c2) g9f9(g9)
+38 g2f2(f1) g7f6(g7)
+39 f2g2(f2) f6g6(f6)
+40 j9i8(j9)
+1 d1d9(g9) j7g4(c8)
+2 j4h6(b6) g10i8(d8)
+3 g1g2(b7) d10f8(a3)
+4 a4c4(e4) g4g3(c3)
+5 g2h3(f1) a7b8(d10)
+6 d9f7(c7) g3f3(d3)
+7 h3g3(f4) f8b4(b3)
+8 g3f2(c5) b4b5(f9)
+9 c4d5(c6) f3h3(h5)
+10 d5e6(c4) b8c9(c10)
+11 f7g6(d9) i8g8(h7)
+12 h6j6(g3) g8h9(j7)
+13 j6h8(g8) h9i8(i9)
+14 g6g5(j8) i8h9(i10)
+15 g5i3(h2) h3h4(f6)
+16 f2f3(g4) h4i5(f8)
+17 h8j6(h8) i5i4(i6)
+18 j6h4(h3) i4i5(j5)
+19 h4g5(h6) i5i4(i5)
+20 i3j3(i3) h9g10(e10)
+21 e6e9(f10) b5a6(a7)
+22 e9e8(e9) a6a5(a6)
+23 f3e2(g2) a5a4(a5)
+24 g5h4(g5) i4j4(i4)
+25 e8d7(d4) a4b4(b5)
+26 d7e7(g7) b4a4(b4)
+27 e7e8(d7) c9b10(a10)
+28 e8e7(e6) b10a9(a8)
+29 e2e3(g1) a9b8(b9)
+30 e7d6(d5) b8a9(b8)
+31 d6e7(e8) g10i8(g10)
+32 e3d2(b2) a9b10(a9)
+33 d2e2(c2) i8h9(i8)
+34 e7f7(g6) b10c9(b10)
+35 j3j1(h1) j4j2(i2)
+36 j1i1(j1) h9h10(h9)
+37 f7e7(f7) j2j3(j4)
+38 i1j2(i1) j2j3(j4)
+1 g1g8(i6) d10d4(d2)
+2 a4d7(i7) g10e8(d9)
+3 j4h4(e4) j7j4(h6)
+4 d1b3(e3) a7b6(e6)
+5 d7c8(d8) d4g7(g4)
+6 h4i4(i3) b6b5(h5)
+7 c8c7(c4) e8f9(e10)
+8 g8h9(f7) g7d4(i9)
+9 c7b8(e5) d4b2(a2)
+10 b8b7(e7) b2c2(b2)
+11 h9g8(g10) c2d1(h1)
+12 i4h3(j5) f9h9(h7)
+13 b3c2(a4) j4h4(i4)
+14 h3h2(e2) b5b6(b3)
+15 g8h8(g8) d1c1(g1)
+16 h2g3(e1) b6a7(a5)
+17 b7b8(b9) a7b6(a7)
+18 b8c7(b7) b6c6(f9)
+19 c7c8(c7) c6b5(d5)
+20 g3h3(g3) h4g5(h4)
+21 h8i8(j8) g5f4(f2)
+22 c8d7(d6) b5c5(c6)
+23 d7e8(d7) f4f3(f6)
+24 h3g2(f1) c5b4(c5)
+25 e8f8(g9) h9h8(h10)
+26 f8g7(g5) b4b5(b6)
+27 i8h9(i8) b5a6(b5)
+28 g2h2(i1) c1a1(b1)
+29 c2c3(b4) f3f4(f3)
+30 h9i10(j9) h8h9(h8)
+31 c3c2(c3) f4f5(g6)
+32 c2c1(c2) f5f4(f5)
+33 c2c1(c2)1 g1g7(e9) d10d3(b5)
+2 j4e4(b7) j7g4(g2)
+3 e4f4(d4) g10g8(b8)
+4 a4b4(c3) g4h4(f6)
+5 b4g9(j6) h4h3(d7)
+6 f4e4(i4) d3c2(e2)
+7 d1h1(a1) a7b6(d6)
+8 g7g5(c1) h3h4(f4)
+9 e4e7(h7) b6d8(a5)
+10 e7f7(h5) g8h8(f8)
+11 f7c10(d9) d8c9(c5)
+12 g9i9(g9) c2d3(f5)
+13 c10b9(c10) h4i3(g1)
+14 i9h9(b3) d3e3(e6)
+15 h1i2(h1) e3f3(c6)
+16 g5h6(j4) f3g4(g3)
+17 h6g5(g8) h8i9(i6)
+18 g5h6(j8) i9i10(g10)
+19 h9i9(h8) i3j2(g5)
+20 b9c8(e8) g4h3(h2)
+21 c8b9(c8) j2h4(i5)
+22 i2j2(i2) h3i3(j3)
+23 j2i1(j1) i10h9(i8)
+24 h6g6(f7) h9i10(h9)
+25 g6g7(h6) i10j10(h10)
+26 i9j9(i10) j10i9(j10)
+27 b9a9(a8) c9b9(b10)
+28 g7g6(g7) b9c9(d10)
+29 a9a10(a9) c9e7(c9)
+30 a10b9(a10) i3j2(i3)
+1 g1g8(i6) d10d3(b5)
+2 a4e4(a8) j7f7(f8)
+3 e4b7(e4) a7c5(i5)
+4 j4i3(e7) d3h3(h8)
+5 d1d4(c4) f7f4(i1)
+6 g8h9(f9) f4d2(c3)
+7 d4d3(d9) c5c7(g3)
+8 b7c8(g4) g10g6(c6)
+9 d3c2(d3) g6g10(b10)
+10 h9i8(h9) g10g6(j3)
+11 i8h7(j9) g6g7(g5)
+12 i3h2(e2) d2c1(h1)
+13 h2i3(i4) h3h6(h2)
+14 i3h3(h5) h6i7(i8)
+15 h7g8(d5) g7d4(g7)
+16 h3g2(f2) c7f10(g9)
+17 g8e6(h6) f10c7(f10)
+18 c2b2(d2) d4f6(g6)
+19 c8b8(b6) c1b1(f1)
+20 g2f3(f5) f6e5(d6)
+21 e6d7(c8) c7d8(e8)
+22 b8a9(c7) d8c9(b9)
+23 a9b8(a7) b1a2(a6)
+24 b2b3(b2) c9d8(c9)
+25 b3c2(a4) i7h7(g8)
+26 f3g2(g1) e5f6(e6)
+27 c2b3(a3) f6d4(f6)
+28 b3c2(c1) d4e3(f3)
+29 b8a9(a10) h7j7(h7)
+30 g2h3(i2) j7j4(i3)
+31 c2b3(b4) a2b1(c2)
+32 a9b8(b7) b1a2(a1)
+33 b8a9(b8) a2b1(a2)
+34 h3h4(h3)1 g1g9(f10) d10d4(d7)
+2 d1d3(i8) j7h5(h8)
+3 g9f9(g9) a7b8(g8)
+4 f9f6(f9) h5i4(f7)
+5 j4j8(h10) b8c9(e7)
+6 j8j4(j10) c9c8(c2)
+7 a4a8(d5) d4c3(c4)
+8 j4j5(j9) i4h4(h7)
+9 a8b7(b2) h4h3(f5)
+10 j5i5(e1) h3g3(g7)
+11 f6b6(e9) g3h4(e4)
+12 d3f3(d3) h4h3(h6)
+13 b7b9(a10) h3h4(f4)
+14 b6b4(b3) c3d2(h2)
+15 i5i4(f1) d2e3(c5)
+16 b4a5(d2) e3e2(f2)
+17 f3g4(f3) g10h9(i10)
+18 b9b8(b7) h4h3(h5)
+19 g4h4(j2) c8c9(c6)
+20 b8c8(d8) c9b9(d9)
+21 c8b8(c8) b9c9(a9)
+22 a5a4(a7) h3i2(h3)
+23 i4j3(i3) i2h1(j1)
+24 h4g4(g1) h9i9(h9)
+25 j3j4(j8) h1j3(h1)
+26 j4j5(i4) j3j4(j3)
+27 j5j6(i5) j4j5(i6)
+28 b8e5(b8) e2d1(a1)
+29 a4a2(b1) d1e2(e3)
+30 j6i7(j6) c9c10(b10)
+31 i7j7(i7) c10b9(a8)
+32 g4g3(g2) b9c9(c10)
+33 e5f6(c3) c9d10(c9)
+34 g3g5(g3) e2d1(c1)
+35 g5g4(h4) d10e10(d10)
+36 g4g5(g4) d1e2(d1)
+37 g5g6(g5) j5j4(j5)
+
+1 g1g8(i6) d10d3(b5)
+2 a4e4(a8) j7f7(d5)
+3 e4e6(g6) a7c7(d7)
+4 d1c2(c6) f7f4(i4)
+5 e6e3(g3) g10h9(h2)
+6 g8d8(g5) f4h4(j6)
+7 j4h6(g7) d3c3(b3)
+8 c2b2(d2) c7c8(c9)
+9 h6h8(h5) h4g4(e4)
+10 e3f3(f7) g4h3(e6)
+11 h8i8(g8) h9h10(a3)
+12 i8h9(j9) c8c7(c8)
+13 d8d9(d10) h10i9(h8)
+14 f3e3(b6) h3g2(g1)
+15 e3f3(f6) g2h3(g4)
+16 f3g2(e2) c3c2(c3)
+17 b2b1(d1) c2d3(f3)
+18 b1c2(b1) d3d4(d3)
+19 g2h1(j1) h3i2(h3)
+20 h1g2(f1) d4c5(f2)
+21 h9i8(g10) i2j3(h1)
+22 d9e9(f8) c7d8(d9)
+23 c2b2(a2) d8e8(d8)
+24 b2c1(b2) e8f9(e8)
+25 e9f10(e10) f9g9(e9)
+26 i8i7(h7) i9i8(j8)
+27 f10f9(f10) j3j4(h6)
+28 i7j7(i7) c5d6(c7)
+29 c1c2(c1)
+1 d1d8(b6) g10g3(i5)
+2 j4f4(f3) a7e7(g5)
+3 f4f6(d6) d10c9(c2)
+4 f6h8(i8) g3h2(g2)
+5 d8c8(e6) e7g7(d4)
+6 a4b5(f5) c9b8(b9)
+7 g1f2(h4) h2g3(i3)
+8 c8d9(j3) g7g8(g7)
+9 d9c9(f9) g8g9(i9)
+10 h8i7(j6) j7i6(g6)
+11 i7h8(f8) b8c8(c6)
+12 b5d3(a6) i6i7(h7)
+13 h8h9(h10) c8d8(b8)
+14 d3e3(e5) g9g10(g8)
+15 c9c8(e10) d8d9(c9)
+16 c8d8(c8) i7j8(j10)
+17 e3f4(c1) g10g9(h8)
+18 f4g4(f4) g3i1(d1)
+19 f2g1(f2) i1i2(h1)
+20 g1h2(i1) j8j7(h5)
+21 g4h3(g4) d9e8(e7)
+22 d8d9(d7) j7j9(i10)
+23 d9e9(d9) e8d8(e8)
+24 e9d10(e9) g9g10(g9)
+25 h3j5(h3) j9j7(i7)
+26 j5i6(h6) d8c7(d8)
+27 d10a10(a8) c7b7(a7)
+28 a10b10(d10) i2j1(j2)
+29 i6j5(i6) j7j9(j8)
+30 h2i2(h2) b7c7(b7)
+31 b10c10(a10) g10f10(g10)
+1 g1g8(i6) d10d3(d7)
+2 a4c4(e4) j7f7(i4)
+3 j4h6(e3) f7h5(e2)
+4 d1h1(h4) a7c7(d8)
+5 g8g9(g4) d3b3(b5)
+6 c4c3(c2) g10h9(h7)
+7 g9d9(g9) c7c8(c10)
+1 g1g8(i6) d10d3(d7)
+2 a4c4(e4) j7f7(i4)
+3 j4h6(e3) f7h5(e2)
+4 d1h1(h4) a7c7(d8)
+5 g8g9(g4) d3b3(b5)
+6 c4c3(c2) g10h9(h7)
+7 g9c9(g9) c7c8(a10)
+8 c9b8(b7) h5g6(g7)
+9 h1f3(f6) h9j7(i7)
+10 f3f5(j5) c8c9(c7)
+11 f5e6(h9) g6g5(e5)
+12 e6g8(j8) c9f9(f7)
+13 h6j4(h6) g5f4(h2)
+14 g8f8(i8) f4g3(j3)
+15 b8d10(g10) g3f3(i3)
+16 j4i5(f5) b3b4(b2)
+17 d10a7(c5) b4c4(d3)
+18 a7a8(a2) f9g8(e10)
+19 c3e1(c3) f3f2(f1)
+20 a8a4(b4) f2f4(f2)
+21 f8e9(f8) g8f9(f10)
+22 e9e8(e9) c4e6(e7)
+23 a4a6(a7) e6c6(b6)
+24 a6a3(a6) f4g5(g6)
+25 a3b3(d5) c6d6(c6)
+26 e1a1(e1) d6e6(d6)
+27 a1d1(a1) f9g8(f9)
+28 d1b1(d1) j7j6(j7)
+29 b1c1(b1) g5f4(f3)
+30 c1d2(c1) f4g5(h5)
+31 i5j4(i5) g8h8(g8)
+32 b3a3(a5) g5f4(g5)
+33 a3b3(a3) f4g3(f4)
+34 b3c4(d4) g3g1(g2)
+35 c4b3(c4) g1h1(g1)
+36 b3a4(b3) h8i9(i10)
+37 e8c10(e8) h1i1(h1)
+38 c10d9(c8) i9h8(j10)
+39 d9a9(b8) h8i9(j9)
+40 a9a8(c10) i9h8(i9)
+41 a8b9(a8) i1i2(h3)
+42 b9d9(a9) i2i1(i2)
+43 d9b9(d9) i1j1(j2)
+44 b9c9(b9) j1i1(j1)
+1 g1g8(i6) d10d3(g6)
+2 a4d7(i7) j7j5(i4)
+3 d1d2(a5) j5e5(j5)
+4 j4i3(f3) d3c4(c8)
+5 i3h4(f4) a7g1(g4)
+6 h4h2(h9) g10b10(b2)
+7 d7c6(f6) b10d10(d3)
+8 d2c3(b3) c4b5(d5)
+9 c6c7(c5) e5h5(h8)
+10 h2h4(f2) h5e5(i5)
+11 h4h2(h6) g1j1(h3)
+12 h2i2(i1) e5e1(h1)
+13 g8g9(e9) j1j2(j1)
+14 i2i3(i2) b5d7(d6)
+15 c3d2(d1) d10b10(b4)
+16 g9g8(e6) e1e5(e1)
+17 d2e3(d4) e5h5(h4)
+18 c7b8(d10) h5e5(e4)
+19 e3c1(c4) b10b9(a8)
+20 g8g9(e7) d7f9(g8)
+21 c1a1(a4) f9c6(b7)
+22 g9g10(e8) c6b6(a7)
+23 b8c7(a9) b6c6(d7)
+24 a1a2(a3) b9c9(d8)
+25 c7b8(b10) c9d9(b9)
+26 g10f10(e10) j2j4(j2)
+27 i3j3(i3) d9c9(d9)
+28 b8c7(b8) c6b6(c6)
+29 a2a1(a2) e5h5(e5)
+30 a1b1(a1) h5f5(h5)
+31 b1c1(e3) f5g5(f5)
+32 c1c2(c3) c9c10(c9)
+33 c2c1(c2) b6b5(b6)
+34 c1b1(c1) b5a6(b5)
+35 c1b1(c1)
+1 g1g8(i6)
+1 d1d7(g7) a7e3(b3)
+2 a4e4(e10) d10d8(c8)
+3 j4h6(i6) j7j3(j8)
+4 g1h2(h5) g10i8(h7)
+5 h2h3(i3) e3d3(e3)
+6 e4c4(h9) j3i2(b2)
+7 h3f3(h3) i2g2(g5)
+8 d7c7(h2) i8i7(f10)
+9 h6f6(d4) d8d9(f7)
+10 c7d8(i8) i7h6(g6)
+11 f6e7(d7) d9c9(g9)
+12 d8h8(d8) h6i5(e1)
+13 h8j6(j1) c9b8(b4)
+14 e7e9(e5) b8b7(b5)
+15 c4c7(c2) d3e2(f2)
+16 f3e4(i4) i5h6(j4)
+17 j6i7(j7) g2g4(g2)
+18 e4d3(f5) g4e4(g4)
+19 c7b8(a8) e4d5(e4)
+20 e9e7(c5) h6i5(j6)
+21 d3d2(d1) b7a7(b6)
+22 e7e6(d6) a7a1(c1)
+23 d2d3(c4) d5b7(d5)
+24 e6e8(c10) a1a2(a7)
+25 d3d2(d3) b7c7(b7)
+26 i7h6(i7) a2a3(a6)
+27 b8b9(b8) a3a4(a5)
+28 d2c3(d2) a4a3(a4)
+29 b9b10(a10) a3a2(a3)
+30 b10c9(a9) a2a1(a2)
+31 e8h8(j10) a1b1(a1)
+32 h8e8(e6) c7c6(c7)
+33 e8h8(e8) e2f1(e2)
+34 h8i9(j9) f1g1(f1)
+35 c9f9(b9) g1h1(g1)
+36 f9f8(d10) h1i1(j2)
+37 f8f9(g10) i5j5(i5)
+38 f9f8(f9) i1i2(i1)
+39 i9h10(i10) i2h1(j3)
+40 h10i9(h10) h1i2(h1)
+1 g1g8(i6) d10d4(g7)
+2 a4c6(c3) g10e8(i4)
+3 d1d3(f3) j7h7(h2)
+4 c6c8(c10) a7b8(g3)
+5 j4i5(e5) h7h8(h5)
+6 g8h9(f9) d4c4(e6)
+7 i5h6(h7) e8e7(g5)
+8 h6i5(j6) c4d4(h4)
+9 i5j4(h6) b8b7(b9)
+10 c8d8(a8) d4e3(e4)
+11 d8c8(e8) b7b5(b8)
+12 c8d8(c7) h8i8(g8)
+13 h9i9(h9) e7f8(e7)
+14 d8d9(d10) f8e9(e10)
+15 j4i3(j3) e9d8(d4)
+16 i3h3(f5) e3d2(g2)
+17 d3c4(f1) i8h8(j8)
+18 c4b3(d1) h8g9(i7)
+19 d9e9(c9) g9h10(f8)
+20 b3b4(a5) d2c2(d3)
+21 e9d9(a6) c2b2(b3)
+22 h3j1(g4) b5c5(b5)
+23 d9b7(b6) d8c8(d7)
+24 j1g1(e3) b2c2(f2)
+25 b4a3(a2) c2b2(e2)
+26 a3b4(a3) c5c6(c5)
+27 b4c4(d5) h10i10(j10)
+28 i9h8(f10) i10i9(i8)
+29 b7a7(b7) i9h10(i9)
+30 h8g9(h8) c8d8(d9)
+31 g9g10(g9) h10i10(h10)
+32 c4b4(a4) b2c1(a1)
+33 b4c4(b4) c1d2(b2)
+34 g1h1(g1) d2c1(b1)
+35 h1i1(i2) c1d2(c1)
+36 i1j1(h1) i10j9(i10)
+37 j1i1(j1) c6d6(c6)
+38 i1j2(i1) d2c2(d2)
+39 j2i3(h3) d8e9(d8)
+40 j2i3(h3)

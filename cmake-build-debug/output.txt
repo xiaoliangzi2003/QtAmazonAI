@@ -1,0 +1,17 @@
+the 0 round: 
+start: (4,10)
+end: (4,3)
+barrier: (2,5)
+
+Tue Jul 18 14:15:58 2023
+
+the 1 round: 
+start: (7,1)
+end: (7,8)
+barrier: (9,6)
+
+the 2 round: 
+start: (10,7)
+end: (6,7)
+barrier: (6,4)
+
